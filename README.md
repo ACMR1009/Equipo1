@@ -3,7 +3,7 @@
 - Paulina Aldaco
 - Joshua Hernández
 - Leopoldo Moreno
-- Victor Alatorre
+- Victor Bustillos
 - Ana Munguía
 
 
